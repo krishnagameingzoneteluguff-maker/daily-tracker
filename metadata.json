@@ -1,0 +1,6 @@
+{
+  "name": "Daily Tracker",
+  "description": "A high-fidelity dark futuristic glassmorphic tracker featuring a daily timetable, academic progress metrics, custom coding tracker, focus timer, and integrated AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
